@@ -223,7 +223,7 @@ const App = () => {
 
           <div className="loading">
 
-            <p>Jinde Jagadeesh</p>
+            <p></p>
 
           </div>
 
